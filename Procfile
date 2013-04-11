@@ -1,1 +1,1 @@
-web: bin/hubot -a hipchat -n "Hubot OPFOR"
+web: bin/hubot -a hipchat -n hubot
