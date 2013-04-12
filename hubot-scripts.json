@@ -2,5 +2,10 @@
 	"shipit.coffee",
 	"pivotal.coffee",
 	"pivotalstorylisten.coffee",
-	"cloudapp.coffee"
+	"cloudapp.coffee",
+	"github-credentials.coffee",
+	"github-issue-link.coffee",
+	"github-commit-link.coffee",
+	"github-pulls.coffee",
+	"google.coffee"
 ]
