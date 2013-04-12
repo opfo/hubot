@@ -1,1 +1,6 @@
-["shipit.coffee", "pivotal.coffee", "pivotalstorylisten.coffee"]
+[
+	"shipit.coffee",
+	"pivotal.coffee",
+	"pivotalstorylisten.coffee",
+	"cloudapp.coffee"
+]
